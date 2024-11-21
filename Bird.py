@@ -10,8 +10,6 @@ from Animal import Animal
 # In[9]:
 
 
-x = Animal()
-x.talk()
 
 
 # In[12]:
